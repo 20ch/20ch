@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @atomiciscool
-- 👀 I’m interested in anything
+- 👋 Hi, I’m atomic
+- 👀 I’m interested in nothing
 - 🌱 I’m currently learning nothing
-- 📫 How to reach me : atomiceu on discord
+- 📫 How to reach me : .vxn on discord
 
 <!---
 atomiciscool/atomiciscool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
