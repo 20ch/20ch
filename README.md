@@ -1,6 +1,6 @@
 - 👋 Hi, I’m atomic
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
+- 👀 I’m interested in translations for french
+- 🌱 I’m currently learning lua
 - 📫 How to reach me : .vxn on discord
 
 <!---
