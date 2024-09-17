@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">✗ Hi, I'm atomic<br>✗ Luau<br>✗ no skid<br><br> Discord: 20ch</h4>
+<h4 align="left">✗ Hi, I'm atomic<br>✗ Luau<br>✗ no skidding!<br><br> Discord: 20ch</h4>
 
 ###
 
